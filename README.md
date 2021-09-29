@@ -11,7 +11,7 @@
 - Alerts Driver and Sends Notification to Relatives and Nearby Hospitals
 - Records Location using GPS
 - Seat Belt and Face mask detection
-- Additional: Crash Sensor to Measure Intensity of the Accident
+- Additional:Crash Sensor to Measure Intensity of the Accident
 
 ## Workflow:
 
