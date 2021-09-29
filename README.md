@@ -13,6 +13,6 @@
 - Seat Belt and Face mask detection
 - Additional: Crash Sensor to Measure Intensity of the Accident
 
-## Workflow
+## Workflow:
 
 # ![Workflow](https://github.com/pranshu27/safe_car_falcon/blob/main/workflow.png)
