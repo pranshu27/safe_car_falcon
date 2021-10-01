@@ -16,3 +16,8 @@
 ## Workflow:
 
 # ![Workflow](https://github.com/pranshu27/safe_car_falcon/blob/main/workflow.png)
+
+## Installing the requirements
+```
+pip install -r requirements.txt
+```
